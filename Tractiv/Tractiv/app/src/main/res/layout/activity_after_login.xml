@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/aboutus"
+    tools:context=".AfterLogin">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp"
+        android:src="@drawable/after_login"/>
+
+    <TextView
+        android:id="@+id/user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="100dp"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:textColor="#FFFFFF"
+        android:text="Project Tractiv is an initiative to help you against the major social insecurities."
+        android:textSize="20sp"
+        android:layout_marginTop="450dp"
+        android:textAlignment="center"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:textColor="#FFFFFF"
+        android:text="Its an IOT driven approach, where the movements of your phone will tracked using the accelerometer sensor and as soon as we find something fishy, we will inform your peers, sharing your location at an interval of 10 seconds, for next 30 minutes.  Your silent prayers will be heard using your silent gestures."
+        android:textSize="15sp"
+        android:layout_marginTop="550dp"
+        android:textAlignment="center"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>

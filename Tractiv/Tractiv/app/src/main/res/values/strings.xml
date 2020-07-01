@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tractiv</string>
+    <string name="map_key" translatable="false">AIzaSyDSawULSZo_32Xv_ENaEg8a5tZZ6Qd3xUg</string>
+    <string name="txtCredits">www.google.com</string>
+</resources>

@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "758638281229",
+    "firebase_url": "https://sos-rest-api.firebaseio.com",
+    "project_id": "sos-rest-api",
+    "storage_bucket": "sos-rest-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758638281229:android:cf486f4a964fda52028b44",
+        "android_client_info": {
+          "package_name": "com.Tractiv.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758638281229-a2v91o6d2lbq9900vop2sjed5j1p7h1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmjPqGOcvIlW5ALkW51G4f63sFSzGu8RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758638281229-a2v91o6d2lbq9900vop2sjed5j1p7h1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758638281229:android:ef80c1cd6aa0d67c028b44",
+        "android_client_info": {
+          "package_name": "com.example.tractiv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758638281229-i2erg0vupfqh6g0ng5tlhbfhkj4q3kgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tractiv",
+            "certificate_hash": "64dbb8751f25bdea3f892611e708c3ba202c8443"
+          }
+        },
+        {
+          "client_id": "758638281229-a2v91o6d2lbq9900vop2sjed5j1p7h1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmjPqGOcvIlW5ALkW51G4f63sFSzGu8RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758638281229-a2v91o6d2lbq9900vop2sjed5j1p7h1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
